@@ -1,1 +1,1 @@
-print(ROM ROM TAUJI)
+print("ROM ROM TAUJI")
